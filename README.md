@@ -5,11 +5,10 @@
 <!---
 **Narashiman/Narashiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+<!---- 💬 Ask me about -->
 - 🔭 I’m a Embedded Hardware and Software Developer
 - 🌱 I’m Code mostly in C, C++ and sometimes in Python and currenty learning Rust
 - 👯 I’m looking to collaborate on interesting Rust and IoT Projects
-<!--- - 💬 Ask me about -->
 - 📫 How to reach me: narashiman105@gmail.com
 - ⚡ Fun fact: Murphy's Law is true.
 
