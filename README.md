@@ -10,5 +10,5 @@
 - 🌱 I Code mostly in C, C++ and sometimes in Python and currenty learning Rust
 - 👯 I’m looking to collaborate on interesting Rust and IoT Projects
 - 📫 How to reach me: narashiman105@gmail.com
-- ⚡ Fun fact: Murphy's Law is true.
+- ⚡ Fun fact: Murphy's Law is being optimistic.
 
